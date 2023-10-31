@@ -3,13 +3,10 @@ A high school based in Lancashire, United Kingdom committed to providing high-qu
 
 ---
 ### Socials 📱
-📲 Facebook: [/carrhillhighschool](https://www.facebook.com/carrhillhighschool/)
-
-📸 Instagram: [@CarrHillHighSchool](https://www.instagram.com/carrhillhighschool/)
-
-🐦 X (Twitter): [@CarrHillSchool](https://twitter.com/CarrHillSchool)
-
-🤝 Linkedin: [/school/CarrHill](https://www.linkedin.com/school/carrhill)
+* 📲 Facebook: [/carrhillhighschool](https://www.facebook.com/carrhillhighschool/)<br>
+* 📸 Instagram: [@CarrHillHighSchool](https://www.instagram.com/carrhillhighschool/)<br>
+* 🐦 X (Twitter): [@CarrHillSchool](https://twitter.com/CarrHillSchool)<br>
+* 🤝 Linkedin: [/school/CarrHill](https://www.linkedin.com/school/carrhill)<br>
 
 ---
 ### Contributing 🐛
