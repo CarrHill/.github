@@ -17,7 +17,7 @@ Found something wrong with our open-source software, or want to contribute a fea
 To contribute, head over to the open-source respository and Fork it.<br>
 To submit your changes, please create an in-detail Pull Request and link the commits you've made (GitHub Web does this for you)<br>
 We'll review your changes and get back to you as soon as we can.<br>
-> Thank you for helping support open-soruce educational software!
+> Thank you for helping support open-source educational software!
 
 #### Reporting an issue 📑
 To report an issue, please head over to the repository related to the product you're facing an issue with.<br>
